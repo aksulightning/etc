@@ -53,7 +53,7 @@ first_load_settings()
 
 print("Simple Minecraft Server Management Helper")
 print("Powered by: LUA")
-print("This command prompt is licensed under The GNU GPL v3.0")
+print("This command prompt is licensed under MIT-license")
 print("")
 
 while true do
