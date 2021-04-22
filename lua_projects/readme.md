@@ -2,4 +2,4 @@
 
 I recommend use GNU/Linux and installing LUA to the system.
 
-MIT-lisense
+MIT-license*
